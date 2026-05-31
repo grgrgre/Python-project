@@ -34,6 +34,7 @@
                 Консольний Трекер Фінансів
             </h1>
             <p class="text-2xl text-slate-400">Проєкт на чистому Python + SQLite</p>
+            <p class="text-2xl text-slate-400">Створював Бевзов Владислав</p>
             
             <div class="mt-8 pt-8 border-t border-slate-700/50 w-full max-w-md">
                 <a href="https://github.com/grgrgre/Python-project" target="_blank" class="inline-flex items-center gap-3 px-6 py-3 bg-slate-800 hover:bg-slate-700 rounded-lg transition-colors border border-slate-600 text-lg">
